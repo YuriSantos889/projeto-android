@@ -19,7 +19,6 @@
 
     --fonte-padrao:Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-android: 'Android', sans-serif, cursive;
 }
 
 *{
@@ -76,7 +75,7 @@ nav{
 }
 
 main h1, h2{
-    font-family:var(--fonte-android);
+    font-family:Android;
     
 }
 
